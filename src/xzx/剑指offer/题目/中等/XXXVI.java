@@ -1,5 +1,7 @@
 package xzx.剑指offer.题目.中等;
 
+import xzx.剑指offer.题目.中等.结构.Node;
+
 /**
  * 题目：
  * 二叉搜索树与双向链表
@@ -75,21 +77,3 @@ public class XXXVI {
     }
 }
 
-class Node {
-    public int val;
-    public Node left;
-    public Node right;
-
-    public Node() {
-    }
-
-    public Node(int _val) {
-        val = _val;
-    }
-
-    public Node(int _val, Node _left, Node _right) {
-        val = _val;
-        left = _left;
-        right = _right;
-    }
-}
