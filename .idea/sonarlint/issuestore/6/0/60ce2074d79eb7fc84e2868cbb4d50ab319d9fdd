@@ -1,8 +1,8 @@
 
+l
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8±¥Ã¶ .
+t
+java:S1104"RMake random a static final constant or non-public and provide accessors if needed.(áµöşÿÿÿÿ8ùËÓ¶ .
 r
 java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ8ÑÒ¶ .
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¢¼”üÿÿÿÿ
-t
-java:S1104"RMake random a static final constant or non-public and provide accessors if needed.(áµöşÿÿÿÿ8ùËÓ¶ .
-l
-java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8±¥Ã¶ .
