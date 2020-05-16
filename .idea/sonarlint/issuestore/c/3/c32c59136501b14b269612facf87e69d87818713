@@ -1,0 +1,7 @@
+
+L
+java:S1481c"*Remove this unused "queue" local variable.(À‡®Ðúÿÿÿÿ8£Îç²¡.
+{
+java:S1171c"YMove the contents of this initializer to a standard constructor or to field initializers.(À‡®Ðúÿÿÿÿ8£Îç²¡.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ÊöÃ×8ÐÇÝ±¡.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê–þžùÿÿÿÿ
