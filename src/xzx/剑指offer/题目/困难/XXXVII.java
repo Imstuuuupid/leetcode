@@ -97,7 +97,7 @@ public class XXXVII {
         //Integer.parseInt()这个函数可以将String类型的数转换为带符号的十进制Integer
         TreeNode root=new TreeNode(Integer.parseInt(tree[0]));
         Queue<TreeNode> queue=new LinkedList<TreeNode>(){{
-            add(root)
+            add(root);
         }};
         int p=1;
         while (!queue.isEmpty())
