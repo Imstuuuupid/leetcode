@@ -18,7 +18,7 @@ package xzx.剑指offer.题目.简单;
  * 解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
  *
  */
-public class XXXXII {
+public class XLII {
     /**
      * 一道很经典的算法，
      * 采用dp算法

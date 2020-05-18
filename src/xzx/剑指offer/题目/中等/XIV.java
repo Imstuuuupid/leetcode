@@ -20,7 +20,7 @@ import static java.lang.Math.pow;
  * <p>
  * 答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
  */
-public class XIIII_cuttingRope {
+public class XIV {
     /**
      * 思路：
      * 经过leetcode解题区大佬的数学推算，当取绳子长度为3且分多段时，能得到最大乘积

@@ -30,7 +30,7 @@ import static java.lang.StrictMath.pow;
  * 链接：https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class XXXXIII {
+public class XLIII {
     /**
      * 思路：
      * 找规律、拆分

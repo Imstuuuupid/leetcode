@@ -41,7 +41,7 @@ import java.util.Queue;
  * 链接：https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class XXXXI {
+public class XLI {
     /**
      * 神仙思路：
      * 大小顶堆，顶堆是个什么东西？
@@ -52,7 +52,7 @@ public class XXXXI {
     /**
      * initialize your data structure here.
      */
-    public XXXXI() {
+    public XLI() {
         //比中位数小的值都放在这里，栈顶是最大的数  大顶堆
         low = new PriorityQueue<>(Collections.reverseOrder());
         //比中位数大的值都放在这里，栈顶是最小的数  小顶堆
