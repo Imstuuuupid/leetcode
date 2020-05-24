@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23b8860cf9a047efbc6fcb4a1551016c38208cba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c2391d2c445063afa28edff81832982919e598" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ef19a6f472feefd03f0d7f4a5c465b5c367062b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/819567241251a469375e8ea2369a4be14bb51375" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96e31541904656fa726a30ea418f81985364c58b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3c70ba4244480cecf2b13b20c3e4355488ed591" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/排序/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XIV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XLIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XLIV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XLV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/dp/XLIX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/dp/XLVII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/dp/XLVIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/递归/XLVI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/困难/XLI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/简单/LII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/简单/LIII_II.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/简单/LXII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/简单/XLII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/076ff78a0df8702a41ca39e54ae43518076cfaa9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/076ff78a0df8702a41ca39e54ae43518076cfaa9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/307bbcf7767296b9c7de1d8bd69f3b157c277f00" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/307bbcf7767296b9c7de1d8bd69f3b157c277f00" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c81dbd7287f7145b4112ab942512a8520ddac7be" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c81dbd7287f7145b4112ab942512a8520ddac7be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XIIII_cuttingRope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/XXXXIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/中等/tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/困难/XXXXI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/xzx/剑指offer/题目/简单/XXXXII.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,36 +37,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLVIII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1720">
-              <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLIX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
@@ -125,11 +63,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="200">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <folding>
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -218,10 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXI_exchange.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXII_getKthFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXIIII_reverseList.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXV_mergeTwoLists.java" />
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXVI.java" />
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XVIIII.java" />
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XIX.java" />
@@ -269,6 +238,10 @@
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII_II.java" />
         <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java" />
+        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/VV_I.java" />
+        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java" />
+        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java" />
+        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java" />
       </list>
     </option>
   </component>
@@ -348,7 +321,7 @@
               <item name="xzx" type="462c0819:PsiDirectoryNode" />
               <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
               <item name="题目" type="462c0819:PsiDirectoryNode" />
-              <item name="中等" type="462c0819:PsiDirectoryNode" />
+              <item name="简单" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -532,7 +505,7 @@
       <workItem from="1589858256720" duration="1916000" />
       <workItem from="1590108062475" duration="5845000" />
       <workItem from="1590198972519" duration="4570000" />
-      <workItem from="1590283587865" duration="2344000" />
+      <workItem from="1590283587865" duration="4884000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -597,11 +570,25 @@
       <option name="project" value="LOCAL" />
       <updated>1590123613769</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="智商逐渐下降">
+      <created>1590288531433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590288531433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="智商逐渐下降">
+      <created>1590288567652</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590288567652</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161420000" />
+    <option name="totallyTimeSpent" value="163960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
@@ -726,7 +713,8 @@
     <MESSAGE value="修改名称" />
     <MESSAGE value="后面的代码开始慢慢归类了，等刷完之后把所有代码分个类然后开始总结。" />
     <MESSAGE value="昨天前天偷懒了。。要多写一点咯。" />
-    <option name="LAST_COMMIT_MESSAGE" value="昨天前天偷懒了。。要多写一点咯。" />
+    <MESSAGE value="智商逐渐下降" />
+    <option name="LAST_COMMIT_MESSAGE" value="智商逐渐下降" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -763,33 +751,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1880">
-          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
-          <folding>
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XVII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XII_pathInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1160,8 +1121,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="200">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
