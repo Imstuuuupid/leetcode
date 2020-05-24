@@ -48,7 +48,7 @@ public class LVI_I {
         int[] res=new int[2];
         for(int num:nums)
         {
-            if((num&digits)==1)
+            if((num&digits)==0)
             {
                 res[0]^=num;
             }else {
