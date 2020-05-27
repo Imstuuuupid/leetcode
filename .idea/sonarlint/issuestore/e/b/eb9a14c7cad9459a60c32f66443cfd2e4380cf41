@@ -1,0 +1,7 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Υ…γόÿÿÿÿ
+G
+java:S1172#"+Remove this unused method parameter "nums".(»‡x8•ΰ¦¥¤.
+V
+java:S3400$"9Remove this method and declare a constant for this value.(”·³›8•ΰ¦¥¤.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(θα›7
