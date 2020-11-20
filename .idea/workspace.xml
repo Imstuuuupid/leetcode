@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/test/deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/test/sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LIX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVIII_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10eed7a308a5612958e068fa31c81d4618e321ac" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10eed7a308a5612958e068fa31c81d4618e321ac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c2391d2c445063afa28edff81832982919e598" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c2391d2c445063afa28edff81832982919e598" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3c70ba4244480cecf2b13b20c3e4355488ed591" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3c70ba4244480cecf2b13b20c3e4355488ed591" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da8b4496bdf6e01df6e7da0e466e9df7c8d47fc9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da8b4496bdf6e01df6e7da0e466e9df7c8d47fc9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/BinarySumFromRoot2Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/PathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/easy/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/BalancedBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/easy/IncrementalSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IncrementalSearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/easy/PrecedenceTraversalOfNtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/PrecedenceTraversalOfNtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/normal/GoodLeafNodePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/GoodLeafNodePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/normal/MaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/MaximumBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/normal/MiddleOrderTraversalBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/MiddleOrderTraversalBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/normal/SpecificDepthNodeLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/SpecificDepthNodeLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/tree/structure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/structure/Node.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,116 +57,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1454">
-              <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="70" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LIX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/deque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#229#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目要点.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="160">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11280">
-              <caret line="597" column="11" selection-start-line="597" selection-start-column="11" selection-end-line="597" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,62 +104,8 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXII_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXII_III.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/二叉树/XXVI.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXIX.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXVIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXX.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXXII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/二叉树/VII_buildTree.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/二叉树/XXXIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XII_pathInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/二叉树/XXXIV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/结构/Node.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/链表/XXXV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXVI.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIX.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目要点.md" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/L.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XXXXI.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XXXVII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXXIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXXIV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XLIV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XLV.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/递归/XLVI.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLVII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLVIII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLIX.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/VII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/VV_I.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/test/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/test/sort.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVIII_III.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_I.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LIX.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/test/dequeq.java" />
-        <option value="$PROJECT_DIR$/src/xzx/剑指offer/test/deque.java" />
-      </list>
-    </option>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -282,53 +130,17 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
+  <component name="ProjectId" id="1kYIr0XwHakVG0hIpy5WEVN9dK2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xzx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xzx" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -347,7 +159,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
@@ -360,18 +172,6 @@
       <expand />
       <select />
     </treeState>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.deque">
     <configuration name="LVIII_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -439,6 +239,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.deque" />
@@ -449,6 +260,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -506,6 +318,8 @@
       <workItem from="1590369262014" duration="4499000" />
       <workItem from="1590480202925" duration="3524000" />
       <workItem from="1590541998468" duration="3930000" />
+      <workItem from="1605871294244" duration="1119000" />
+      <workItem from="1605872651375" duration="5781000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -594,104 +408,15 @@
     <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176193000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23748308" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.35555556" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.05240793" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45945945" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5546976" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32947233" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.08579089" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
-      <window_info anchor="right" id="RestServices" order="10" weight="0.3297587" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.35555556" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.041666668" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32947233" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
-      <window_info anchor="right" id="RestServices" order="10" weight="0.3297587" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -710,6 +435,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="又写了一题" />
@@ -724,31 +450,38 @@
     <MESSAGE value="更新两题两题" />
     <option name="LAST_COMMIT_MESSAGE" value="更新两题两题" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605875424673" />
+    <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1605878364321">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
+    <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605872939551" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIX.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIX.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
@@ -757,402 +490,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXVIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXVI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1460">
-          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XXXI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XX_isNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XVI_myPow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XIII_movingCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XLII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="35" selection-start-line="31" selection-start-column="6" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXIX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXII_III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXII_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="216" column="6" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/XXXII_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XXXVII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/L.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/困难/XLI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XLIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="567" column="16" lean-forward="true" selection-start-line="567" selection-start-column="16" selection-end-line="567" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XLIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/XLV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="54" column="19" selection-start-line="48" selection-start-column="8" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/递归/XLVI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLVII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLVIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/dp/XLIX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIII_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/MergeSort.java" />
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LV_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="71" column="64" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/mainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVIII_III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37580">
-          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
-          <folding>
-            <element signature="e#76090#76091#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LIX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目要点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11280">
-          <caret line="597" column="11" selection-start-line="597" selection-start-column="11" selection-end-line="597" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LVII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1454">
-          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/排序/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/简单/LXVIII_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="70" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LVI_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../java源码/demo/test/src/source/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="160" column="12" selection-start-line="143" selection-start-column="51" selection-end-line="603" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/题目/中等/LIX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xzx/剑指offer/test/deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#229#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

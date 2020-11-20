@@ -1,4 +1,4 @@
-package xzx.sword2offer.tree.normal;
+package xzx.tree.normal;
 
 import xzx.sword2offer.problem.structure.ListNode;
 import xzx.sword2offer.problem.structure.TreeNode;

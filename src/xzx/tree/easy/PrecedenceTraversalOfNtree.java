@@ -1,6 +1,6 @@
-package xzx.sword2offer.tree.easy;
+package xzx.tree.easy;
 
-import xzx.sword2offer.tree.structure.Node;
+import xzx.tree.structure.Node;
 
 import java.util.ArrayList;
 import java.util.List;

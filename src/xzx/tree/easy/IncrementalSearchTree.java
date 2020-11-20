@@ -1,4 +1,4 @@
-package xzx.sword2offer.tree.easy;
+package xzx.tree.easy;
 
 import xzx.sword2offer.problem.structure.TreeNode;
 
@@ -55,25 +55,26 @@ import java.util.List;
  * @Author: xzx
  * @Date: 2020/10/30 10:22 上午
  **/
+
 public class IncrementalSearchTree {
 
     public TreeNode increasingBST(TreeNode root) {
-        if(root == null){
+        if (root == null) {
             return null;
         }
         List<Integer> res = new ArrayList<>();
-        inorderTraversal(root,res);
+        inorderTraversal(root, res);
         TreeNode head = root;
-        for(int i = 0 ; i < res.size() ; i++ ) {
+        for (int i = 0; i < res.size(); i++) {
             root.right = new TreeNode(res.get(i));
             root = root.right;
         }
         return head.right;
     }
 
-    public void inorderTraversal(TreeNode root , List<Integer> res) {
-        if(root != null) {
-            inorderTraversal(root.left , res);
+    public void inorderTraversal(TreeNode root, List<Integer> res) {
+        if (root != null) {
+            inorderTraversal(root.left, res);
             res.add(root.val);
             inorderTraversal(root.right, res);
         }

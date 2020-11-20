@@ -1,4 +1,4 @@
-package xzx.sword2offer.tree.structure;
+package xzx.tree.structure;
 
 import java.util.List;
 

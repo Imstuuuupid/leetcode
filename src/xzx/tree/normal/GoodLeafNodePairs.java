@@ -1,4 +1,4 @@
-package xzx.sword2offer.tree.normal;
+package xzx.tree.normal;
 
 /**
  * 给你二叉树的根节点 root 和一个整数 distance 。
