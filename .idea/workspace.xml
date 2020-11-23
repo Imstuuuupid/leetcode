@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,11 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="更新两题两题">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LevelOrderBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MergeTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/Tree2str.java" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="&#10;新增树类简单三题。乱拳打死老师傅。">
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +117,6 @@
         <option name="createModulesForAggregators" value="false" />
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
@@ -231,13 +235,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -313,7 +319,8 @@
       <workItem from="1605871294244" duration="1119000" />
       <workItem from="1605872651375" duration="6368000" />
       <workItem from="1605914581386" duration="6000" />
-      <workItem from="1605938894543" duration="6474000" />
+      <workItem from="1605938894543" duration="6527000" />
+      <workItem from="1606113029294" duration="3328000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -406,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605878757765</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&#10;新增树类简单三题。乱拳打死老师傅。">
+      <created>1605945914556</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605945914556</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +463,8 @@
     <MESSAGE value="昨天前天偷懒了。。要多写一点咯。" />
     <MESSAGE value="智商逐渐下降" />
     <MESSAGE value="更新两题两题" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新两题两题" />
+    <MESSAGE value="&#10;新增树类简单三题。乱拳打死老师傅。" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;新增树类简单三题。乱拳打死老师傅。" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
@@ -461,10 +476,14 @@
     </state>
     <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
     <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605872939551" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605878764330">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605945922440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878764330" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605945922440" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606114199826">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606114199826" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
