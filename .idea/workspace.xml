@@ -22,13 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="&#10;新增树类简单三题。乱拳打死老师傅。">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsSameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="今天就这样吧，收工！">
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/GetMinimumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsCousins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsUnivalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MinDiffInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/TrimBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/Flatten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,15 +239,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -320,7 +322,9 @@
       <workItem from="1605872651375" duration="6368000" />
       <workItem from="1605914581386" duration="6000" />
       <workItem from="1605938894543" duration="6527000" />
-      <workItem from="1606113029294" duration="3328000" />
+      <workItem from="1606113029294" duration="3401000" />
+      <workItem from="1606805138492" duration="4785000" />
+      <workItem from="1606894000734" duration="8015000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -420,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605945914556</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="今天就这样吧，收工！">
+      <created>1606117520943</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117520943</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +475,8 @@
     <MESSAGE value="智商逐渐下降" />
     <MESSAGE value="更新两题两题" />
     <MESSAGE value="&#10;新增树类简单三题。乱拳打死老师傅。" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;新增树类简单三题。乱拳打死老师傅。" />
+    <MESSAGE value="今天就这样吧，收工！" />
+    <option name="LAST_COMMIT_MESSAGE" value="今天就这样吧，收工！" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
@@ -476,14 +488,15 @@
     </state>
     <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
     <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605872939551" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605945922440">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606117531087">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605945922440" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606114199826">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606117531087" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606810860130">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606114199826" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606810860130" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
