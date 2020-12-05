@@ -22,16 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="今天就这样吧，收工！">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/GetMinimumDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsCousins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsUnivalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MinDiffInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/SumOfLeftLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/TrimBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/Flatten.java" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-04-21">
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/FindTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/IsSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PreorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +169,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.deque">
+  <component name="RunManager" selected="Application.PostorderTraversal">
     <configuration name="LVIII_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xzx.剑指offer.题目.简单.LVIII_III" />
       <module name="leetcode" />
@@ -200,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.剑指offer.test.deque" />
+    <configuration name="PostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.tree.normal.PostorderTraversal" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xzx.剑指offer.test.*" />
+          <option name="PATTERN" value="xzx.tree.normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sort$MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.剑指offer.test.sort$MergeSort" />
+    <configuration name="deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.剑指offer.test.deque" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -239,24 +235,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PostorderTraversal" />
         <item itemvalue="Application.deque" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.LVIII_III" />
         <item itemvalue="Application.sort" />
-        <item itemvalue="Application.sort$MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -325,6 +323,8 @@
       <workItem from="1606113029294" duration="3401000" />
       <workItem from="1606805138492" duration="4785000" />
       <workItem from="1606894000734" duration="8015000" />
+      <workItem from="1606983641378" duration="5370000" />
+      <workItem from="1607147194853" duration="3014000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -431,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606117520943</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="20-04-21">
+      <created>1606983672805</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983672805</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,27 +483,44 @@
     <MESSAGE value="更新两题两题" />
     <MESSAGE value="&#10;新增树类简单三题。乱拳打死老师傅。" />
     <MESSAGE value="今天就这样吧，收工！" />
-    <option name="LAST_COMMIT_MESSAGE" value="今天就这样吧，收工！" />
+    <MESSAGE value="20-04-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-04-21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605875424673" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607149209202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607149209202" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607149209201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607149209201" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607149209200">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607149209200" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607149209202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607149209202" />
     <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1605878364321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
     <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605872939551" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606117531087">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606983678960">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605945922440" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606117531087" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606810860130">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606983678960" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607149525916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606810860130" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607149525916" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
