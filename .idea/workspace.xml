@@ -22,11 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-05">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MaxDepth.java" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-05-真难呀">
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/AverageOfLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/FindSecondMinimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/DelNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsSymmetric.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,15 +233,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -322,7 +320,9 @@
       <workItem from="1606805138492" duration="4785000" />
       <workItem from="1606894000734" duration="8015000" />
       <workItem from="1606983641378" duration="5370000" />
-      <workItem from="1607147194853" duration="5210000" />
+      <workItem from="1607147194853" duration="5466000" />
+      <workItem from="1607331117558" duration="1205000" />
+      <workItem from="1607482017484" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -443,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607150467574</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20-12-05-真难呀">
+      <created>1607152770881</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607152770881</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,29 +497,34 @@
     <MESSAGE value="今天就这样吧，收工！" />
     <MESSAGE value="20-04-21" />
     <MESSAGE value="20-12-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-12-05" />
+    <MESSAGE value="20-12-05-真难呀" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-12-05-真难呀" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="354" y="132" key="#Inspections" timestamp="1607484525531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1607484525531" />
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605875424673" />
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607149209202">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607152774420">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607149209202" />
-    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607149209201">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607152774420" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607152774419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607149209201" />
-    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607149209200">
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607152774419" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607152774418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607149209200" />
-    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607149209202">
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607152774418" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607152774419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607149209202" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607152774419" />
     <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1605878364321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -523,10 +535,10 @@
     </state>
     <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605945922440" />
     <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606983678960" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607149525916">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607484367087">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607149525916" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607484367087" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
