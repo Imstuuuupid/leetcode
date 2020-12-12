@@ -1,6 +1,7 @@
 package xzx.tree.easy;
 
 import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.tree.structure.Node;
 
 /**
  * 二叉树最大深度
@@ -32,6 +33,24 @@ public class MaxDepth {
             return 0;
         }
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+    }
+
+    /**
+     * 对多子节点的解法
+     * @param root
+     * @return
+     */
+    private int findMax(Node root) {
+        if (root == null) {
+            return 0;
+        }
+        //这个变量如果设为全局变量则每return一次就会加一次，导致最初的值失效
+        //所以需要在本层设置这个值，及时它在下面几层出现也没有影响，因为最终还是会返回最大层数
+        int maxDepth = 0;
+        for (int i = 0; i < root.children.size(); i++) {
+            maxDepth = Math.max(findMax(root.children.get(i)), maxDepth);
+        }
+        return 1 + maxDepth;
     }
 
 }
