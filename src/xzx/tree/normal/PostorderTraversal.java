@@ -60,10 +60,11 @@ public class PostorderTraversal {
         left.right = new TreeNode(5);
         right.left = new TreeNode(6);
         right.right = new TreeNode(7);
-        PostorderTraversal ex = new PostorderTraversal();
-        List<Integer> integers = ex.postorderTraversal(root);
+        PreorderTraversal ex = new PreorderTraversal();
+        List<Integer> integers = ex.preorderTraversal(root);
         System.out.println(integers);
-        integers = ex.postOrderTraversal(root);
-        System.out.println(integers);
+        InorderTraversal in = new InorderTraversal();
+        List<Integer> integers1 = in.inorderTraversal(root);
+        System.out.println(integers1);
     }
 }
