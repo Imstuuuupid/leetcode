@@ -66,5 +66,8 @@ public class PostorderTraversal {
         InorderTraversal in = new InorderTraversal();
         List<Integer> integers1 = in.inorderTraversal(root);
         System.out.println(integers1);
+        PostorderTraversal po = new PostorderTraversal();
+        integers = po.postOrderTraversal(root);
+        System.out.println(integers);
     }
 }

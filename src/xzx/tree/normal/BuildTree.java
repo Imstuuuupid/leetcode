@@ -53,11 +53,25 @@ public class BuildTree {
      * @param postorder
      * @return xzx.sword2offer.problem.structure.TreeNode
      */
-    int[] inorder, postorder;
     public TreeNode buildTreeInAndPost(int[] inorder, int[] postorder) {
-        this.inorder = inorder;
-        this.postorder = postorder;
-        return null;
+        return build(inorder, postorder, 0, inorder.length - 1, postorder.length - 1);
+    }
+
+    private TreeNode build(int[] inorder, int[] postorder, int inStart, int inEnd, int poEnd) {
+        if (inStart > inEnd) {
+            return null;
+        }
+        TreeNode root = null;
+        int index = -1;
+        for (int i = inStart; i <= inEnd; i++) {
+            if (inorder[i] == postorder[poEnd]) {
+                root = new TreeNode(postorder[poEnd]);
+                index = i;
+            }
+        }
+        root.left = build(inorder, postorder, inStart, index - 1, poEnd - (inEnd - index) - 1);
+        root.right = build(inorder, postorder, index + 1, inEnd, poEnd - 1);
+        return root;
     }
 
 

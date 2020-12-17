@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-13">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/ConstructMaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/ConstructMaximumBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,13 +232,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -326,7 +327,8 @@
       <workItem from="1607592789640" duration="2083000" />
       <workItem from="1607757804079" duration="2458000" />
       <workItem from="1607829389271" duration="3583000" />
-      <workItem from="1607946377961" duration="3103000" />
+      <workItem from="1607946377961" duration="3328000" />
+      <workItem from="1608177141931" duration="2192000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -475,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607833014342</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="20-12-14">
+      <created>1607949630501</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607949630502</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +535,8 @@
     <MESSAGE value="20-12-09" />
     <MESSAGE value="20-12-12" />
     <MESSAGE value="20-12-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-12-13" />
+    <MESSAGE value="20-12-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-12-14" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="132" key="#Inspections" timestamp="1607484525531">
@@ -541,25 +551,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="451" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607758556545" />
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607947960694">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607994819349">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607947960694" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607994819349" />
     <state width="1398" height="346" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607830074142" />
-    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607947960693">
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607994819348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607947960693" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607994819348" />
     <state width="1398" height="346" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607947960692">
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607994819347">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607947960692" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607994819347" />
     <state width="1398" height="346" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607947960693">
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607994819348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607947960693" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607994819348" />
     <state width="1398" height="346" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607830074141" />
     <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1607833326528">
       <screen x="0" y="0" width="1440" height="900" />
