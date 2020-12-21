@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-14">
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-17--还是用函数复制数组来的舒服啊">
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LeafSimilar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
@@ -232,15 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -328,7 +326,9 @@
       <workItem from="1607757804079" duration="2458000" />
       <workItem from="1607829389271" duration="3583000" />
       <workItem from="1607946377961" duration="3328000" />
-      <workItem from="1608177141931" duration="2192000" />
+      <workItem from="1608177141931" duration="2475000" />
+      <workItem from="1608372124285" duration="1993000" />
+      <workItem from="1608518533072" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -484,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607949630502</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="20-12-17--还是用函数复制数组来的舒服啊">
+      <created>1608179509276</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608179509276</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +543,8 @@
     <MESSAGE value="20-12-12" />
     <MESSAGE value="20-12-13" />
     <MESSAGE value="20-12-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-12-14" />
+    <MESSAGE value="20-12-17--还是用函数复制数组来的舒服啊" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-12-17--还是用函数复制数组来的舒服啊" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="132" key="#Inspections" timestamp="1607484525531">
@@ -551,51 +559,51 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="451" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607758556545" />
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1607994819349">
+    <state width="1398" height="346" key="GridCell.Tab.0.bottom" timestamp="1608265541686">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607994819349" />
+    <state width="1398" height="346" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608265541686" />
     <state width="1398" height="346" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607830074142" />
-    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1607994819348">
+    <state width="1398" height="346" key="GridCell.Tab.0.center" timestamp="1608265541684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607994819348" />
+    <state width="1398" height="346" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608265541684" />
     <state width="1398" height="346" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1607994819347">
+    <state width="1398" height="346" key="GridCell.Tab.0.left" timestamp="1608265541683">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607994819347" />
+    <state width="1398" height="346" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608265541683" />
     <state width="1398" height="346" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1607994819348">
+    <state width="1398" height="346" key="GridCell.Tab.0.right" timestamp="1608265541685">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607994819348" />
+    <state width="1398" height="346" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608265541685" />
     <state width="1398" height="346" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607830074141" />
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1607833326528">
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1608265541688">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607833326528" />
+    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608265541688" />
     <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607830074324" />
-    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1607833326527">
+    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1608265541687">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607833326527" />
+    <state width="1398" height="346" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1608265541687" />
     <state width="1398" height="346" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1607830074323" />
-    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1607833326527">
+    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1608265541686">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607833326527" />
+    <state width="1398" height="346" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1608265541686" />
     <state width="1398" height="346" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1607830074322" />
-    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1607833326528">
+    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1608265541687">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607833326528" />
+    <state width="1398" height="346" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1608265541687" />
     <state width="1398" height="346" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1607830074323" />
-    <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1605878364321">
+    <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1608518673245">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
-    <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605872939551" />
+    <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608518673245" />
     <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606983678960">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
