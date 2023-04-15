@@ -1,6 +1,6 @@
 package xzx.tree.normal;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 给定一个不含重复元素的整数数组。一个以此数组构建的最大二叉树定义如下：
@@ -49,7 +49,7 @@ public class MaximumBinaryTree {
      * @Author: xzx
      * @Date: 2020/10/30 9:56 上午
      * @Param: [nums]
-     * @Return: xzx.sword2offer.problem.structure.TreeNode
+     * @Return: xzx.structure.TreeNode
      **/
     public TreeNode constructMaximumBinaryTree(int[] nums) {
         return construct(nums, 0, nums.length);

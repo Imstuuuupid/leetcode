@@ -1,6 +1,6 @@
 package xzx.tree.easy;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 给定两个二叉树，编写一个函数来检验它们是否相同。

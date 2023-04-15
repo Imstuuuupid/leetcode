@@ -1,6 +1,6 @@
 package xzx.tree.easy;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 翻转一棵二叉树。
@@ -37,7 +37,7 @@ public class InvertBinaryTree {
      * @author xzx
      * @date 2020/11/23 14:49
      * @param root
-     * @return xzx.sword2offer.problem.structure.TreeNode
+     * @return xzx.structure.TreeNode
      */
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {

@@ -1,4 +1,4 @@
-package xzx.sword2offer.problem.structure;
+package xzx.structure;
 
 /**
  * 二叉树结构

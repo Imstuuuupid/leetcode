@@ -1,6 +1,6 @@
 package xzx.tree.normal;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 import java.util.Arrays;
 
@@ -17,7 +17,7 @@ public class BuildTree {
      * @date 2020/12/14 20:24
      * @param preorder
      * @param inorder
-     * @return xzx.sword2offer.problem.structure.TreeNode
+     * @return xzx.structure.TreeNode
      */
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         if (preorder.length == 0 || inorder.length == 0) {
@@ -51,7 +51,7 @@ public class BuildTree {
      * @date 2020/12/14 20:31
      * @param inorder
      * @param postorder
-     * @return xzx.sword2offer.problem.structure.TreeNode
+     * @return xzx.structure.TreeNode
      */
     public TreeNode buildTreeInAndPost(int[] inorder, int[] postorder) {
         return build(inorder, postorder, 0, inorder.length - 1, postorder.length - 1);

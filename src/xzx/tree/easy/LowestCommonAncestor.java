@@ -1,6 +1,6 @@
 package xzx.tree.easy;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先。
@@ -49,7 +49,7 @@ public class LowestCommonAncestor {
      * @param root 
      * @param p 
      * @param q 
-     * @return xzx.sword2offer.problem.structure.TreeNode
+     * @return xzx.structure.TreeNode
      */
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (q.val == root.val) {

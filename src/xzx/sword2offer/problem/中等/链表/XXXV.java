@@ -1,6 +1,6 @@
 package xzx.sword2offer.problem.中等.链表;
 
-import xzx.sword2offer.problem.structure.Node;
+import xzx.structure.Node;
 
 import java.util.HashMap;
 import java.util.Map;

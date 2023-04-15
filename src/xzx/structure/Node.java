@@ -1,4 +1,4 @@
-package xzx.sword2offer.problem.structure;
+package xzx.structure;
 
 public class Node {
     public int val;

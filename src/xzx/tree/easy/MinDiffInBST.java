@@ -1,6 +1,6 @@
 package xzx.tree.easy;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 给定一个二叉搜索树的根节点 root，返回树中任意两节点的差的最小值。

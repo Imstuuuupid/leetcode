@@ -1,6 +1,6 @@
 package xzx.tree.easy;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 二叉树的最长直径

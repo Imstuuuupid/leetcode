@@ -1,6 +1,6 @@
 package xzx.sword2offer.problem.简单;
 
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.TreeNode;
 
 /**
  * 题目：二叉搜索树的第k大节点

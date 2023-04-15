@@ -22,10 +22,79 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-17--还是用函数复制数组来的舒服啊">
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LeafSimilar.java" afterDir="false" />
+    <list default="true" id="2bb59fad-ccd0-4cea-be8c-c04b7a8f871c" name="Default Changelist" comment="20-12-21">
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day1/PivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day1/RunningSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day2/IsIsomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day2/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day3/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/codenothing/I/day3/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/easy/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xzx/tree/exams/PublicParent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/structure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/structure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/structure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/structure/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/structure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/structure/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/VII_buildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/VII_buildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/XXVI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/XXVI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/XXXIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/二叉树/XXXIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/链表/XXXV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/链表/XXXV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/困难/XXXVII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/困难/XXXVII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LV_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LV_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LV_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LV_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LXVIII_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LXVIII_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LXVIII_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/LXVIII_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/ReversePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/ReversePrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XVIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XVIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXIV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXIV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXVII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXVII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXVIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXVIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/XXXII_III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/sword2offer/problem/简单/findIn2dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/sword2offer/problem/中等/IV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/AverageOfLevels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/AverageOfLevels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/BalancedBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/BinarySumFromRoot2Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/BinarySumFromRoot2Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/FindSecondMinimumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/FindSecondMinimumValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/FindTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/FindTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/GetMinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/GetMinimumDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IncrementalSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IncrementalSearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/InvertBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IsCousins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsCousins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IsSameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsSameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/IsUnivalTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/IsUnivalTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/LeafSimilar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LeafSimilar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/LevelOrderBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LevelOrderBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/MergeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MergeTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/MinDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MinDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/MinDiffInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/MinDiffInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/RangeSumBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/RangeSumBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/SearchBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/SearchBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/SortedArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/SumOfLeftLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/SumOfLeftLeaves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/Tree2str.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/Tree2str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/easy/TrimBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/easy/TrimBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/BuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/ConstructMaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/ConstructMaximumBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/DelNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/DelNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/Flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/Flatten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/InorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/MaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/MaximumBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/MiddleOrderTraversalBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/MiddleOrderTraversalBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xzx/tree/normal/SpecificDepthNodeLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xzx/tree/normal/SpecificDepthNodeLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,35 +128,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>[</find>
-      <find>]</find>
-      <find>&quot;</find>
-      <find>item</find>
-      <find>p</find>
-      <find>c1</find>
-      <find>c2</find>
-      <find>push</find>
-      <find>result</find>
-      <find>resultTemp</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>{</replace>
-      <replace>}</replace>
-      <replace>'</replace>
-      <replace>item[i]</replace>
-      <replace>head</replace>
-      <replace>z</replace>
-      <replace>x</replace>
-      <replace>y</replace>
-      <replace>add</replace>
-      <replace>resultTemp</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>G:\JAVA学习\leetcode\src\xzx\剑指offer\题目\中等</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -98,8 +138,19 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -138,7 +189,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/github/git/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -155,6 +206,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="xzx.剑指offer.题目.简单" />
@@ -166,72 +220,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.PostorderTraversal">
-    <configuration name="BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.tree.normal.BuildTree" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xzx.tree.normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.tree.easy.MinDepth" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xzx.tree.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.tree.normal.PostorderTraversal" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xzx.tree.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.tree.easy.SortedArrayToBST" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xzx.tree.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xzx.剑指offer.test.deque" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xzx.剑指offer.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsSubsequence">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -243,13 +232,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.codenothing.I.day2.IsIsomorphic" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xzx.codenothing.I.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.codenothing.I.day2.IsSubsequence" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xzx.codenothing.I.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.codenothing.I.day1.PivotIndex" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xzx.codenothing.I.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PublicParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.tree.exams.PublicParent" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xzx.tree.exams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunningSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xzx.codenothing.I.day1.RunningSum" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xzx.codenothing.I.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PostorderTraversal" />
-        <item itemvalue="Application.BuildTree" />
-        <item itemvalue="Application.MinDepth" />
-        <item itemvalue="Application.SortedArrayToBST" />
-        <item itemvalue="Application.deque" />
+        <item itemvalue="Application.IsSubsequence" />
+        <item itemvalue="Application.IsIsomorphic" />
+        <item itemvalue="Application.PivotIndex" />
+        <item itemvalue="Application.RunningSum" />
+        <item itemvalue="Application.PublicParent" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +382,11 @@
       <workItem from="1607946377961" duration="3328000" />
       <workItem from="1608177141931" duration="2475000" />
       <workItem from="1608372124285" duration="1993000" />
-      <workItem from="1608518533072" duration="212000" />
+      <workItem from="1608518533072" duration="2112000" />
+      <workItem from="1612405290350" duration="1807000" />
+      <workItem from="1616297812820" duration="932000" />
+      <workItem from="1678715611833" duration="346000" />
+      <workItem from="1681357847373" duration="5255000" />
     </task>
     <task id="LOCAL-00001" summary="又写了一题">
       <created>1589425615424</created>
@@ -491,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608179509276</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="20-12-21">
+      <created>1608519022783</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608519022783</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,7 +586,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="又写了一题" />
@@ -544,75 +608,8 @@
     <MESSAGE value="20-12-13" />
     <MESSAGE value="20-12-14" />
     <MESSAGE value="20-12-17--还是用函数复制数组来的舒服啊" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-12-17--还是用函数复制数组来的舒服啊" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="354" y="132" key="#Inspections" timestamp="1607484525531">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1607484525531" />
-    <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605875424673">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="391" y="180" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605875424673" />
-    <state x="451" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1607758556545">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="451" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1607758556545" />
-    <state width="1398" height="346" key="GridCell.Tab.0.bottom" timestamp="1608265541686">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608265541686" />
-    <state width="1398" height="346" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607830074142" />
-    <state width="1398" height="346" key="GridCell.Tab.0.center" timestamp="1608265541684">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608265541684" />
-    <state width="1398" height="346" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="346" key="GridCell.Tab.0.left" timestamp="1608265541683">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608265541683" />
-    <state width="1398" height="346" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607830074140" />
-    <state width="1398" height="346" key="GridCell.Tab.0.right" timestamp="1608265541685">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608265541685" />
-    <state width="1398" height="346" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607830074141" />
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom" timestamp="1608265541688">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608265541688" />
-    <state width="1398" height="346" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607830074324" />
-    <state width="1398" height="346" key="GridCell.Tab.1.center" timestamp="1608265541687">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1608265541687" />
-    <state width="1398" height="346" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1607830074323" />
-    <state width="1398" height="346" key="GridCell.Tab.1.left" timestamp="1608265541686">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1608265541686" />
-    <state width="1398" height="346" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1607830074322" />
-    <state width="1398" height="346" key="GridCell.Tab.1.right" timestamp="1608265541687">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="346" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1608265541687" />
-    <state width="1398" height="346" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1607830074323" />
-    <state x="94" y="41" width="1120" height="728" key="SettingsEditor" timestamp="1608518673245">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="94" y="41" key="SettingsEditor/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605878364321" />
-    <state x="94" y="41" width="1120" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608518673245" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606983678960">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1605945922440" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606983678960" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607484367087">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607484367087" />
+    <MESSAGE value="20-12-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-12-21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -641,6 +638,16 @@
           <url>file://$PROJECT_DIR$/src/xzx/tree/easy/MinDepth.java</url>
           <line>46</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xzx/codenothing/I/day2/IsIsomorphic.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xzx/codenothing/I/day2/IsSubsequence.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

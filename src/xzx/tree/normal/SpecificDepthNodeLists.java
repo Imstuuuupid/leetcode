@@ -1,7 +1,7 @@
 package xzx.tree.normal;
 
-import xzx.sword2offer.problem.structure.ListNode;
-import xzx.sword2offer.problem.structure.TreeNode;
+import xzx.structure.ListNode;
+import xzx.structure.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -45,7 +45,7 @@ public class SpecificDepthNodeLists {
      * @Author: xzx
      * @Date: 2020/10/27 9:54 下午
      * @Param: [tree]
-     * @Return: xzx.sword2offer.problem.structure.ListNode[]
+     * @Return: xzx.structure.ListNode[]
      **/
     public ListNode[] listOfDepth(TreeNode tree){
         if(tree == null) {

@@ -1,6 +1,6 @@
 package xzx.sword2offer.problem.中等.二叉树;
 
-import xzx.sword2offer.problem.structure.*;
+import xzx.structure.*;
 
 import java.util.HashMap;
 import java.util.Map;
